@@ -6,11 +6,10 @@
 
 
 <ul dir="auto">
-<li>🤓 Always learning new things</li>
-<li>⭐A Woman with a big dream</li>
-<li>🐳Mobile App Developer( Flutter)</li>
-<li>💻UX/UI Designer</li>
-<li>🐱‍🏍Freelancer</li>
+<li>✈️| A Woman with a big dream</li>
+<li>📲 | Mobile App Developer( Flutter)</li>
+<li>💫| UX/UI Designer</li>
+<li>💙| Freelancer</li>
 </ul>
 
 
